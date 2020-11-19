@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Starting.unity
+    guid: 54145e7a22eadab438bed6aaf55d0c3c
+  - enabled: 1
+    path: Assets/Scenes/HubRooms/HubRoom.unity
+    guid: 8f609b6b22b274a4984478ea3440c983
+  - enabled: 1
+    path: Assets/Scenes/HubRooms/HubRoomFinalChoice.unity
+    guid: 631cd9124d213fc45be52fca849fbd1b
+  - enabled: 1
+    path: Assets/Scenes/Endings/Ending1.unity
+    guid: 39fcb8ab7935fcb4ba2ccb98353e66be
+  - enabled: 1
+    path: Assets/Scenes/Endings/Ending2.unity
+    guid: 565a7eb0b84802d47ab550e2255a86cf
+  - enabled: 1
+    path: Assets/Scenes/Endings/Ending3.unity
+    guid: 5a92a0030d08e65448f8358ee499f9ec
+  - enabled: 1
+    path: Assets/Scenes/HubRooms/HubRoom2.unity
+    guid: ba83c97959afba6428ea2df5d8132a3f
+  - enabled: 1
+    path: Assets/Scenes/HubRooms/HubRoom3.unity
+    guid: 037dfcf37e2083d4f9869008e589ee0e
+  - enabled: 1
+    path: Assets/Scenes/HubRooms/HubRoomFinal.unity
+    guid: 9b8f8905d0b5f8f40886a88e8be47502
+  - enabled: 1
+    path: Assets/Scenes/Room1/Room1.unity
+    guid: 2ce09cdd0e292b148967ffa8b3d9e803
+  - enabled: 1
+    path: Assets/Scenes/Room1/Room1O1.unity
+    guid: 13ea3a56c985f1746a796c68c6e71219
+  - enabled: 1
+    path: Assets/Scenes/Room1/Room1O2.unity
+    guid: 91412764a9c0b8a478e9452ad218e8f3
+  - enabled: 1
+    path: Assets/Scenes/Room1/Room1O3.unity
+    guid: a0aaa01add623374ebb4ff824bd73986
+  - enabled: 1
+    path: Assets/Scenes/Room1/Room1P2.unity
+    guid: 3be9edbd84315f54c81b3eab2ff66085
+  - enabled: 1
+    path: Assets/Scenes/Room1/Room1P3.unity
+    guid: c3e9b114ca6190542bea12f7d73165d4
+  - enabled: 1
+    path: Assets/Scenes/Room1/Room1P4.unity
+    guid: 47e190bd4d5065440a4402a12e58f088
+  - enabled: 1
+    path: Assets/Scenes/Room2/Room2.unity
+    guid: 7e8163174715ec740852d5d4c0c435d1
+  - enabled: 1
+    path: Assets/Scenes/Room2/Room2O1.unity
+    guid: e34b606d3d23e334897f3797fb6bc398
+  - enabled: 1
+    path: Assets/Scenes/Room2/Room2O2.unity
+    guid: 768c9a777877c9641b7fc4c6e20d47d4
+  - enabled: 1
+    path: Assets/Scenes/Room2/Room2O3.unity
+    guid: ef5867289d6a35d4bba68ba78d7fd6af
+  - enabled: 1
+    path: Assets/Scenes/Room2/Room2P2.unity
+    guid: f6c91ea581d65bc40b7f98940fea1af2
+  - enabled: 1
+    path: Assets/Scenes/Room2/Room2P3.unity
+    guid: f844b3986ff74084db0e002ada716ded
+  - enabled: 1
+    path: Assets/Scenes/Room3/Room3.unity
+    guid: 824f2c73d445feb40b9ba6ce0d29a88b
+  - enabled: 1
+    path: Assets/Scenes/Room3/Room3O1.unity
+    guid: 71effc0354f7e41488a98e00bd651c27
+  - enabled: 1
+    path: Assets/Scenes/Room3/Room3O2.unity
+    guid: 5a33305b30cb01145983c5973ab04a32
+  - enabled: 1
+    path: Assets/Scenes/Room3/Room3O3.unity
+    guid: 773b44d6a26556b4db837ba731e8a631
+  - enabled: 1
+    path: Assets/Scenes/Room3/Room3P2.unity
+    guid: 48d8a397cc62d6648862f2d5471fdbd4
+  - enabled: 1
+    path: Assets/Scenes/Room3/Room3P3.unity
+    guid: c88ac8a78034cd446a662c3507924ba5
+  - enabled: 1
+    path: Assets/Scenes/Room4/Room4.unity
+    guid: bad75dd2564960f4ca2ce014bd016359
+  - enabled: 1
+    path: Assets/Scenes/Room4/Room4O1.unity
+    guid: a0490c9b60fd0fd42b2cd9a6bd0425bd
+  - enabled: 1
+    path: Assets/Scenes/Room4/Room4O2.unity
+    guid: 72839fb2752826b48baa7ff04b21bb6c
+  - enabled: 1
+    path: Assets/Scenes/Room4/Room4O3.unity
+    guid: 6150edbd830ccd04a8bb4d1f676d44ae
+  - enabled: 1
+    path: Assets/Scenes/Room4/Room4P2.unity
+    guid: a860e3a5abf86604fa7580a62bc93d16
+  - enabled: 1
+    path: Assets/Scenes/Endings/Ending2P2.unity
+    guid: 4f3d0f604aff4fb469eddfee02e4e76b
+  - enabled: 1
+    path: Assets/Scenes/HubRooms/HubRoomFinal 1.unity
+    guid: 69925b6ce487da240b1e2f8d3b0b63e9
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Onboarding5.unity
+    guid: 0687f50c36edc464b882f77496e1229d
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Onboarding3.unity
+    guid: 762c9c329d2866f419d41422bf2b6469
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Onboarding2.unity
+    guid: 32258d6752575394aac24aee95fa667d
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Onboarding1.unity
+    guid: 7efd7bc35f9368f44ad82ad5e428d426
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Onboarding4.unity
+    guid: 22222b327083f2e45874527a7f9da3f6
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: f614a4cfa2699cb48af03ee10fe3310c
+  m_configObjects: {}
